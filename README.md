@@ -1,13 +1,9 @@
-<a href="https://electroniccats.com/blog/apoya-el-hardware-libre-con-github-sponsors/">
-  <img src="https://electroniccats.com/wp-content/uploads/2020/07/Badge_GHS.png" height="104" />
-</a>
-
-Electronic Cats KiCad Libraries
+Artil Robotics KiCad Libraries
 ====================================
 
-This repository contains a set of KiCad libraries that match the ElectronicCats-Libraries repository, as well as tools that can be used to manipulate various aspects of KiCad libraries and footprints.
+This repository contains a set of KiCad libraries that match the Artil Robotics-Libraries repository, as well as tools that can be used to manipulate various aspects of KiCad libraries and footprints.
 
-**Electronic Cats DFM specifics**
+**Artil Robotics DFM specifics**
 
 The 'standard' libraries contain internal part numbers for ease of design. Some tools also exist, like the BOM generator, which are only useful with the internal part numbers.
 
