@@ -6,7 +6,7 @@ There isn't a file that can be loaded and used, or it hasn't been found yet.  Us
 
 From PCBNEW, select File->Plot.  Make the following selections:
 
-![plot settings](https://github.com/ElectronicCats/ElectronicCats-KiCad-Libraries/raw/master/Documentation/Pictures/PlotSettings.png)
+![plot settings](https://github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/raw/master/Documentation/Pictures/PlotSettings.png)
 
 *Settings for basic 2 layer board*
 
@@ -16,7 +16,7 @@ KiCad chooses a default, and we'll try it out.  Primarily, the format is a bit d
 
 From PCBNEW, select File->Fabrication Outputs->.drl file
 
-![Drill Settings](https://github.com/ElectronicCats/ElectronicCats-KiCad-Libraries/raw/master/Documentation/Pictures/DrillSettings.png)
+![Drill Settings](https://github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/raw/master/Documentation/Pictures/DrillSettings.png)
 
 *Settings to generate PTH and NPTH files*
 
@@ -24,4 +24,4 @@ From PCBNEW, select File->Fabrication Outputs->.drl file
 
 Using gerbv, and OSH Park's import tool, the output files are rendered correctly.
 
-See [/Example Project/outputs](https://github.com/ElectronicCats/ElectronicCats-KiCad-Libraries/tree/master/Documentation/Example%20Project/outputs) for the outputs from the example project.
+See [/Example Project/outputs](https://github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Documentation/Example%20Project/outputs) for the outputs from the example project.
