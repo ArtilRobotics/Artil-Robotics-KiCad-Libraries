@@ -12,10 +12,10 @@ The 'standard' libraries contain internal part numbers for ease of design. Some 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/ElectronicCats/ElectronicCats-KiCad-Libraries/tree/master/Documentation) -- Contains documentation written during creation of this repository, with readme.md index of its own!
-* [/Footprints](https://github.com/ElectronicCats/ElectronicCats-KiCad-Libraries/tree/master/Footprints) -- Standard SparkFun KiCad footprints, generated from our Eagle libraries
-* [/Libraries](https://github.com/ElectronicCats/ElectronicCats-KiCad-Libraries/tree/master/Libraries) -- Standard SparkFun KiCad libraries, generated from our Eagle libraries
-* [/Tools](https://github.com/ElectronicCats/ElectronicCats-KiCad-Libraries/tree/master/Tools) -- Tools for converting this and that
+* [/Documentation](https://https://github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Documentation) -- Contains documentation written during creation of this repository, with readme.md index of its own!
+* [/Footprints](github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Footprints) -- Standard SparkFun KiCad footprints, generated from our Eagle libraries
+* [/Libraries](github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Libraries) -- Standard SparkFun KiCad libraries, generated from our Eagle libraries
+* [/Tools](github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Tools) -- Tools for converting this and that
 
 
 Versions
