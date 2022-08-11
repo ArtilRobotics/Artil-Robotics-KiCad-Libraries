@@ -13,6 +13,6 @@
 
 ### Usage
 
-* [EArtilRoboticsProcess.md](https://github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Documentation/SparkFunProcess.md) -- Tutorial, walks through basic workflow.
+* [ArtilRoboticsProcess.md](https://github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Documentation/SparkFunProcess.md) -- Tutorial, walks through basic workflow.
 * [ProductionOutputs.md](https://github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Documentation/ProductionOutputs.md) -- What settings to select when ordering PCBs
 * [BOM plugin](https://github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Tools/PROD_ID_Bom_Plugin/README.md) -- for outputing PROD_IDs.
