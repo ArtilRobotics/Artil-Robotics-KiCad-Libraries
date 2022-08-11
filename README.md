@@ -1,4 +1,4 @@
-Artil Robotics KiCad Libraries
+Artil Robotics KiCad Libraries.
 ====================================
 
 This repository contains a set of KiCad v6 libraries created by Artil Robotics, as well is in Sync whit forked repository by ElectronicCats. [/ElectronicCats.](https://github.com/ElectronicCats/ElectronicCats-KiCad-Libraries)
