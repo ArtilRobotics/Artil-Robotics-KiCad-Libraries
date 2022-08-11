@@ -1,27 +1,22 @@
 Artil Robotics KiCad Libraries
 ====================================
 
-This repository contains a set of KiCad libraries that match the Artil Robotics-Libraries repository, as well as tools that can be used to manipulate various aspects of KiCad libraries and footprints.
+This repository contains a set of KiCad-6 libraries created by Artil Robotics, as well is in Sync whit forked repository by ElectronicCats. [/ElectronicCats.](https://github.com/ElectronicCats/ElectronicCats-KiCad-Libraries)
 
 **Artil Robotics DFM specifics**
 
-The 'standard' libraries contain internal part numbers for ease of design. Some tools also exist, like the BOM generator, which are only useful with the internal part numbers.
-
-*Note: By setting the field layer to white, the numbers become invisible*
+The 'standard' libraries contain internal part numbers for ease of design.
 
 Contents
 -------------------
 
 * [/Documentation](https://https://github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Documentation) -- Contains documentation written during creation of this repository, with readme.md index of its own!
-* [/Footprints](github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Footprints) -- Standard SparkFun KiCad footprints, generated from our Eagle libraries
-* [/Libraries](github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Libraries) -- Standard SparkFun KiCad libraries, generated from our Eagle libraries
-* [/Tools](github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Tools) -- Tools for converting this and that
-
+* [/Footprints](github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Footprints) -- Standard SparkFun KiCad footprints
+* [/Libraries](github.com/ArtilRobotics/Artil-Robotics-KiCad-Libraries/tree/master/Libraries) -- Standard SparkFun KiCad libraries
 
 Versions
 -------------------
 *(Not all tags shown)*
-
 
 
 License
